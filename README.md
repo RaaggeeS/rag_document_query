@@ -4,7 +4,7 @@ You can modify and use your own local LLM model for embeddings and querying the 
 
 Note: This uses mxbai for embeddings and gemma3:1b for showing the results.
 
-# To use this:
+# To use it:
 1. Clone the repository
 2. Change the desired LLM in llm.py.
 3. If you want to change the prompt you can do that too.
